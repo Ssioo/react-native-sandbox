@@ -1,0 +1,15 @@
+export const COLOR = {
+  primary: '#FFFC00',
+  success: '#80E863',
+  info: '#21C7FF',
+  warning: '#FFEB11',
+  danger: '#FF563F',
+  white: '#FFF',
+  lighter: '#F3F3F3',
+  light: '#DAE1E7',
+  dark: '#444',
+  black: '#000',
+  backdrop: 'rgba(0,0,0,0.4)',
+  disabled: '#E6E6E6',
+  selected: '#D6E4FF66',
+}

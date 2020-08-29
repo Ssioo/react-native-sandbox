@@ -1,0 +1,11 @@
+{
+  "translation": {
+    "example": {
+      "hello": "안녕하세요!",
+      "hello_name": "안녕하세요, {{name}}님!"
+    },
+    "app": {
+      "name": "시오RN"
+    }
+  }
+}
