@@ -1,4 +1,4 @@
-import { Profile } from 'common.ts'
+import { Profile } from 'models/user'
 
 let _profile: Profile | null = null
 export const setProfile = (profile: Profile | null) => {
